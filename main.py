@@ -14,7 +14,7 @@ origins = [
     "http://localhost:5500",
     "http://127.0.0.1:5500",
     "https://eagle-eye-navigation.netlify.app",
-    "https://46ccbg7p-5500.uks1.devtunnels.ms/"
+    "https://46ccbg7p-5500.uks1.devtunnels.ms"
 ]
 api_key = os.getenv("API_KEY")
 
