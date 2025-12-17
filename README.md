@@ -36,8 +36,8 @@ A **secure**, **high‑performance** reverse proxy server built with **FastAPI**
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone github.com
-cd your-repo-name
+git clone https://github.com/TheEagle-Benson/eagle-eye-proxy
+cd eagle-eye-proxy
 ```
 
 ### 2️⃣ Create & activate a virtual environment
