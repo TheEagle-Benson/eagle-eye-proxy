@@ -98,6 +98,11 @@ Live endpoint:
 ```
 https://eagle-eye-proxy.vercel.app
 ```
+Navigate to:
+```
+https://eagle-eye-proxy.vercel.app/api/geocode?q=query_parameter
+```
+to get the coordinates for the query, i.e. name of place
 
 When deploying anywhere (Vercel, Fly.io, Render, etc.):
 
